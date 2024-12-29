@@ -11,7 +11,7 @@ int main() {
     int opcao;
     do {
         // Menu principal
-        cout << "\nMenu:\n1 - Entrada\n2 - Saida\n3 - Sair do Sistema\nEscolha uma opcao: ";
+        cout << "\nMenu:\n1 - Marcar Entrada\n2 - Marcar Saida\n3 - Sair do Sistema\nEscolha uma opcao: ";
         cin >> opcao;
 
         //Ações de entrada do menu principal
